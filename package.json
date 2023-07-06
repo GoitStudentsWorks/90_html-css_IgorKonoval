@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-teamwork-14/",
+    "build": "vite build --base=/90_html-css_IgorKonoval/",
     "preview": "vite preview"
   },
   "devDependencies": {
